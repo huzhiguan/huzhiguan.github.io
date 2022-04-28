@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+![Image](http://alphathecool.com/img/IMG_6936.JPG)
 
 You can use the [editor on GitHub](https://github.com/huzhiguan/huzhiguan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
